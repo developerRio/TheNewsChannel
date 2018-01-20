@@ -1,0 +1,2 @@
+# TheNewsChannel
+This is simple News App including WebView For more detailed news, Light UI, No permissions are required to access this app. Slightly less than 2.5MB of size, API used are newsapi.org, which provides top 20 headlines of every hour, as well as each 20 headlines for the news categories like business, health, Entertainment, Tech, Sports. Make sure to run this app your android os version should be greater than 5.1 i:e; Android Lollipop. Leave your queries on developer.rio105@gmail.com.
